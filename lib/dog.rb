@@ -9,5 +9,5 @@ snoopy = Dog.new
 snoopy
 
 lassie = Dog.new
-tiger
+lassie
 
